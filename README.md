@@ -13,6 +13,7 @@ and other resources
 
 - Front end developed in React.js
 - Dynamic table entry 
+- Table created with react-data-tables
 - Table connected to Django backend, with CRUD functionality
 - Create excel spread sheet from table data
 - Boot Strap used for styling
