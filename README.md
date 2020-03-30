@@ -28,11 +28,8 @@ and other resources
 
 ### Image of Front-end table view mockup
 
-![Image of Nurse Form Mock Up]
-(Resources/FrontEndMockup.png)
-
+![Image of Nurse Form Mock Up](Resources/TableDesign.png)
 
 ### Image of Front-end table current look
 
-![Image of Actual app]
-(Resources/currentLook.png)
+![Image of Actual app](Resources/currentLook.png)
