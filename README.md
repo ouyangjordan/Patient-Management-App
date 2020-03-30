@@ -6,24 +6,33 @@ and patients streamline the process of admittance of patients into clinical tria
 Our ultimate purpose is to streamline the clinical trials process to advance 
 medicine and medical technology more quickly and improve patient outcomes.
 
-There are currently two planned views - the nurse view to intake patients,
-and the patient view. The patients will be sent a generated questionairre
-to determine their eligibility in certain clinical studies.
-
-# This repo will not be updated throughout the course of the competition, updated code availible upon request
+In our resources folder you can find a slideshow pdf overview of the project
+and other resources
 
 ## Developed features
 
-- Front end developed in React.js, with React Native possibility
+- Front end developed in React.js
 - Dynamic table entry 
-- Create excel spread sheet from table
-- Django Back End for analyzing patient data
+- Table connected to Django backend, with CRUD functionality
+- Create excel spread sheet from table data
 - Boot Strap used for styling
 
-### Image of Front-end nurse view mockup
+## How to run project
 
-![Image of Nurse Form Mock Up](Images/FrontEndMockup.png)
+#Requires react, django, and python
 
-### Image of Front-end patient view mockup
+1. Clone repo
+2. Head into api folder, enter "python3 manage.py runserver"
+3. In another terminal enter patients folder, run npm start
+4. App should be running and connected to local django django service
 
-![Image of Patient Form Mock Up](Images/FrontEndPatient.png)
+### Image of Front-end table view mockup
+
+![Image of Nurse Form Mock Up]
+(Resources/FrontEndMockup.png)
+
+
+### Image of Front-end table current look
+
+![Image of Actual app]
+(Resources/currentLook.png)
